@@ -69,8 +69,10 @@ background-color:rgba(227, 235, 243, 0.301)
 }
 .gogo {
     display:flex;
-    justify-content:center;
-    
-
-    
+    justify-content:center; 
+}
+.Gorrilla {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
 }
