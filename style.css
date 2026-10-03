@@ -82,3 +82,27 @@ background-color:rgba(227, 235, 243, 0.301)
     margin:0 auto;
     font-size:20px;
 }
+.zone-text {
+    display:flex;
+flex-direction:column;
+align-items:center;
+
+
+}
+
+.zone-text {
+    text-align:center;
+    margin:0 auto;
+    font-size:20px;
+    max-width:400px;
+}
+.zone img{
+    width: 700px;
+    height:auto;
+}
+.special {
+    display:flex;
+    margin-top:80px;
+background-color:rgba(227, 235, 243, 0.301)
+    
+}
