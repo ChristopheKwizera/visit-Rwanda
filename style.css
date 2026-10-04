@@ -122,3 +122,13 @@ background-color:rgba(227, 235, 243, 0.301)
    width: 380px;
     height:auto;
 }
+
+.meet-rwanda {
+    text-align:center;
+    margin:0 auto;
+    max-width:600px;
+    margin-top:80px;
+}
+.meet-rwanda p {
+    font-size:20px;
+}
