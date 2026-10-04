@@ -106,3 +106,19 @@ align-items:center;
 background-color:rgba(227, 235, 243, 0.301)
     
 }
+.why-invest {
+    display:flex;
+    justify-content:space-between;
+    padding: 50px 120px;
+    font-size:20px;
+}
+
+.investphoto {
+    display:flex;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.investphoto img {
+   width: 380px;
+    height:auto;
+}
