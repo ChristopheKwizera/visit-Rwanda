@@ -122,3 +122,76 @@ background-color:rgba(227, 235, 243, 0.301)
    width: 380px;
     height:auto;
 }
+
+.meet-rwanda {
+    text-align:center;
+    margin:0 auto;
+    max-width:600px;
+    margin-top:80px;
+}
+.meet-rwanda p {
+    font-size:20px;
+}
+.convention-text {
+    display:flex;
+    justify-content: space-between;
+}
+.conventionphoto {
+    display:flex;
+    height:180px;
+    width: 100vw;
+    margin: 0;
+  padding: 0;
+    
+}
+.conventionphoto img {
+     width: 33.333%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+#airplane {
+object-position: center;
+background-color:rgba(227, 235, 243, 0.301);
+
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.sports {
+    text-align:center;
+    margin:0 auto;
+    max-width:700px;
+    margin-top: 80px;
+    font-size: 20px;
+}
+#sponsorship{
+    width: 700px;
+object-fit: cover;
+
+}
+.Paris{
+    display:flex;
+    justify-content: space-between;
+    padding:30px 120px;
+margin-right: 100px;
+}
+
+.parisphoto {
+    display:flex;
+    padding:0;
+    
+}
+.parisphoto img {
+    width: 380px;
+    height: auto;
+}
+
+.basketball img{
+    width: 400px;
+    height: auto;
+}
+.basketball h1{
+    margin-left:20px;
+}
