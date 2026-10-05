@@ -221,4 +221,83 @@ margin-right: 100px;
         font-weight: 600;
         font-size: 0.95rem;
         cursor: pointer;
+        transition: background-color 0.2s ease;
+}
+
+.nav-items:last-child {
+    border-right: none;
+
+}
+
+.nav-items:hover {
+  background-color: rgba(223, 17, 17, 0.05);
+}
+
+.chevron{
+    font: size 0.75rem;
+    opacity: 0.8;
+}
+
+.footer-bottom {
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 25px 40px;
+    max-width: 1300px;
+  margin: 0 auto;
+}
+.footer-left {
+    display :flex;
+    align-items: center;
+    gap:30px;
+}
+
+.footer-logo {
+  color: #ffffff;
+  text-decoration: none;
+  line-height: 1.1;
+  font-size: 1.1rem;
+  letter-spacing: 2px;}
+
+.copyright {
+  font-size: 0.85rem;
+  color: #d1d5db;}
+
+  .footer-right {
+    display: flex;
+    align-items: center;
+    gap:45px;
+  }
+
+  .footer-links {
+
+    display:flex;
+    list-style: none;
+    margin :0;
+    padding:0;
+    gap:25px;
+  }
+
+  .footer-links a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 0.85rem;
+  transition: color 0.2s ease;}
+
+  .footer-links a:hover {
+  color: #20b2aa;}
+
+  .social-icons {
+  display: flex;
+  gap: 15px;}
+
+.social-icons a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: opacity 0.2s ease;
+}
+
+.social-icons a:hover {
+  opacity: 0.7;
 }
